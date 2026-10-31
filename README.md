@@ -173,23 +173,41 @@ TBA
 
 X. Opracowanie badania PISA
   - czym jest, jak wykorzystujemy wyniki do przygotowania lekcji, co oznaczają wyniki w danym roku i jaki jest trend?
+
 X. Testy diagnostyczne
+
 X. Punkty, rabaty
+
 X. SSO, OAuth, wymuszanie https
+
 X. Opracowanie podstawy programowej
+
 X. Poradnik do pracy z dyskalkulią
+
 X. Poradnik do pracy z neuroróżnorodnością
+
 X. Strategie pokonywania postępów uczniów
+
 X. Fiszki z powtórzeniami
+
 X. SEO, GEO
+
 X. LMS
+
 X. Forum dyskusyjne
+
 X. Czatbot:
-  - Korepetytor w metodzie sokratejskiej, kieruje do odpowiedzi poprzez zadawanie pytań naprowadzających. Nie podaje gotowego rozwiązania
+  - Korepetytor w metodzie sokratejskiej, kieruje do odpowiedzi poprzez zadawanie pytań naprowadzających. Nie podaje
+gotowego rozwiązania
+
 X. Aplikacja mobilna
+
 X. Ankiety satysfakcji z lekcji i okresowo
+
 X. Sklep
+
 X. Schema.org
+
 X. Laravel / Symphony
 
 

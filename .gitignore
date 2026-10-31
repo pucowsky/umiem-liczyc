@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+node_modules/
+automation/
+.htaccess
+
+# Env secrets
+.env
+.env.*
+*.pub
+*.key
+*.pem
+*.crt
+database/
+config/
+
+# Runtime
+*.log
+storage/
+tmp/
+output/
+uploads/
+.sessions/
+.tmp-logs/
+
+# Dependencies
+vendor/
+__pycache__/
